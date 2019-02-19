@@ -28,3 +28,7 @@ Mapped paths:
 - post 4
 - server events
 ```
+
+### Running on GraalVM
+
+https://medium.com/graalvm/instant-netty-startup-using-graalvm-native-image-generation-ed6f14ff7692
