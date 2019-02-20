@@ -32,3 +32,7 @@ Mapped paths:
 ### Running on GraalVM
 
 https://medium.com/graalvm/instant-netty-startup-using-graalvm-native-image-generation-ed6f14ff7692
+
+### Windows GraalVM
+
+http://download.oracle.com/otn/utilities_drivers/oracle-labs/graalvm-ee-1.0.0-rc12-snapshot-windows-amd64.zip
