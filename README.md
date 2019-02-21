@@ -36,3 +36,11 @@ https://medium.com/graalvm/instant-netty-startup-using-graalvm-native-image-gene
 ### Windows GraalVM
 
 http://download.oracle.com/otn/utilities_drivers/oracle-labs/graalvm-ee-1.0.0-rc12-snapshot-windows-amd64.zip
+
+mvn clean package
+mvn dockerfile:build
+
+docker run -p 8080:8080 -t springio/gs-reactive-rest-service:latest
+
+https://technology.amis.nl/2018/11/01/running-reactive-spring-boot-on-graalvm-in-docker/
+
